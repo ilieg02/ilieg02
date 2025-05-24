@@ -1,5 +1,7 @@
-## Hi there 👋
+HELLO!
 
+My name is Ilie Gabuja and I am a computer scientist with a passion about all type of coding and technology.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c)](https://skillicons.dev)
 <!--
 **ilieg02/ilieg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
