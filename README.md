@@ -1,6 +1,6 @@
 **HELLO!**
 
-My name is Ilie Gabuja and I am a computer scientist with a passion about all type of coding and technology.
+My name is Ilie Gabuja and I am a computer scientist who is passionate about Cybersecurity , AI and Systems.
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c,bash,git,r,kali)](https://skillicons.dev)
 <!--
