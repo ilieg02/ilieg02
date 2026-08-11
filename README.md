@@ -69,15 +69,6 @@ Python | RAG | LLM Inference | Optimisation | Dynamic Routing
 
 Repository: techarena2025-main
 
-### 🛡️ Cybersecurity Tools
-
-A growing collection of security-focused utilities implemented across different programming and scripting languages.
-
-Key areas:
-Shell | Cybersecurity | Automation | Networking
-
-Repository: Cybersecurity-Tools
-
 ---
 
 ## 🧠 Current Focus
@@ -105,8 +96,7 @@ LinkedIn: linkedin.com/in/ilie-gabuja-080a26335
 
 Email: iliegabuja@gmail.com
 
-GitHub: github.com/ilieg02
+GitHub: [github.com/ilieg02](https://github.com/ilieg02)
 
-I am open to internship opportunities, technical collaboration and conversations about software engineering, AI systems and cybersecurity.
 
 ### Secure by design. Intelligent by engineering. Built for real-world impact.
