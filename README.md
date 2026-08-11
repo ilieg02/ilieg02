@@ -1,78 +1,118 @@
-# Hi, I'm Ilie Gabuja 👋
+<h1 align="center">Hi 👋, I'm Ilie Gabuja</h1>
 
-🎓 Computer Science Student @ Dublin City University (Penultimate Year)
-💻 Software Engineering • AI Systems • Cybersecurity
-📍 Dublin, Ireland
+<h3 align="center">
+🚀 Software Engineering • 🤖 AI Systems • 🔐 Cybersecurity
+</h3>
 
-I build secure, production-ready software and AI systems that solve real-world problems.
+<p align="center">
+Computer Science Student @ Dublin City University <br>
+Building scalable software, privacy-first AI systems, and secure infrastructure.
+</p>
 
-My work sits at the intersection of software engineering, machine learning, and cybersecurity, where I focus on building scalable applications, privacy-first AI systems, and enterprise-grade solutions that can operate under real-world constraints.
+<p align="center">
 
-Most recently, I worked as a Digital Transformation Intern at Bank of Ireland, developing internal applications used by 11,000+ employees, automating governance processes, and contributing to security-focused digital initiatives aligned with OWASP and ISO 27001 standards.
+💻 React • Python • Java • FastAPI • Docker
 
-I am particularly interested in:
-- Software Engineering
-- Artificial Intelligence & LLM Systems
-- Cybersecurity Engineering
-- Cloud & Distributed Systems
-- Backend Infrastructure & APIs
+🛡️ OWASP • ISO 27001 • GDPR
 
-Currently seeking Software Engineering, AI Engineering, Cybersecurity, and Technology Internship opportunities.
+🤖 LLMs • QLoRA • RAG • vLLM
+
+🏆 Huawei TechArena 2025 Finalist (Top 7 / 400+)
+</p>
+
+<p align="center">
+https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge
+</p>
 
 ## 🚀 About Me
 
-I'm a Computer Science student at Dublin City University with hands-on experience designing and deploying software systems, AI applications, and cybersecurity-focused solutions.
+🎓 Penultimate Year Computer Science Student at DCU
 
-My background combines:
+🏦 Digital Transformation Intern @ Bank of Ireland
 
-- Full-stack engineering with React, Java, Python, FastAPI and SQL
-- AI model fine-tuning and deployment using QLoRA, PEFT, Unsloth and vLLM
-- Secure software development aligned with OWASP, GDPR and ISO 27001
-- Enterprise digital transformation within a large financial institution
+🏆 Huawei TechArena 2025 Finalist (Top 7 / 400+ teams)
 
-I enjoy building systems where performance, security, scalability, and real business impact matter.
-## 🏆 Highlights
+🛡️ Builder of a Zero-PII AI Phishing Detection Platform
 
-🥇 Top 7 National Finalist (400+ teams)
-Huawei TechArena 2025
+🤖 Passionate about AI Infrastructure, Backend Engineering, and Security
 
-🛡️ Built a Privacy-First AI Phishing Detection Platform
-Achieved 97.8% F1 Score while maintaining Zero-PII processing.
+🌱 Currently exploring:
+- LLM Systems
+- Agentic AI
+- Cloud Infrastructure
+- Distributed Systems
+- Security Engineering
 
-🏦 Bank of Ireland Intern
-Delivered software solutions and automation used across a workforce of 11,000+ employees.
+🎯 Seeking 2027 Software Engineering, AI Engineering and Cybersecurity opportunities.
 
-## ⚙️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
-Python • Java • C/C++ • JavaScript • SQL
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 ### Frontend
-React • HTML • CSS • REST APIs
+
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
 
 ### Backend
-FastAPI • Spring Boot • Flask
 
-### AI & Machine Learning
-PyTorch • Transformers • QLoRA • PEFT • Unsloth • RAG • vLLM
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 
-### DevOps & Infrastructure
-Docker • Git • Linux • CI/CD
+### AI / ML
+
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD43Badge&logo=huggingface&logoColor=black
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+https://img.shields.io/badge/vLLM-7B61FF?style=for-the-badge)
+
+s
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linuxle=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.it-F05032?stylee-badge&logo=git&logoColor=white
 
 ### Security
-OWASP • ISO 27001 • GDPR • Burp Suite • Wireshark
 
-### Databases
-SQL • PostgreSQL
-``
-## 📫 Connect With Me
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
+![ISO27001img.shields.io/badge/ISO_27001-blue?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-
 
-LinkedIn: www.linkedin.com/in/ilie-gabuja-080a26335
-Email: iliegabuja@gmail.com
+## 📈 GitHub Stats
 
-Always open to discussing:
-- Software Engineering
-- Artificial Intelligence
-- Cybersecurity
-- Open Source
-- Internship Opportunities
+<p align="center">
+https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight
+</p>
+
+## 🧠 Current Interests
+
+🔹 LLM Fine-Tuning
+
+🔹 Retrieval-Augmented Generation (RAG)
+
+🔹 AI Safety & Responsible AI
+
+🔹 Agentic Workflows
+
+🔹 Backend Systems Design
+
+🔹 Security Engineering
+
+🔹 Cloud Infrastructure
+
+## 📬 Let's Connect
+
+💼 LinkedIn:
+[linkedin.com/in/ilie-gabuja-080a26335](https://www.linkedin.com/in/ilie-gabuja-080a26335)
+
+📧 Email:
+iliegabuja@gmail.com
+
+⚡ Open to Software Engineering, AI Engineering, Machine Learning and Cybersecurity opportunities.
+💡 Building software that is secure, intelligent, and scalable.
