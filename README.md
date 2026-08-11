@@ -53,15 +53,6 @@ Key highlights:
 - Used AWQ quantisation and vLLM to reduce GPU memory requirements
 - Built with FastAPI, Pydantic, Docker and automated benchmarking
 
-Repository: Zero-PII-Phishing-Risk-Scoring
-
-### 🧠 Zero-PII Phishing Engine Architecture
-
-Architecture and engineering documentation for a secure phishing-analysis system, including privacy controls, threat modelling and deployment design.
-
-Key technologies:
-Python | FastAPI | AI Security | System Design | GDPR | OWASP | Threat Modelling
-
 Repository: Zero-PII-Phishing-Engine-Architecture
 
 ### ⚡ Huawei TechArena 2025
@@ -105,7 +96,6 @@ Repository: Cybersecurity-Tools
 - 🚴 Completed more than 3,800 km of self-supported solo cycling across Europe
 - 💚 Raised more than €3,100 for the Irish Cancer Society and Spina Bifida Hydrocephalus Ireland
 - ♟️ Strategy mentor and librarian with the DCU Chess Society
-- 👨‍🏫 Nominated for DCU Peer Mentor of the Year 2025
 
 ---
 
