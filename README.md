@@ -11,7 +11,7 @@ I am currently seeking 2027 internship opportunities in Software Engineering, AI
 ## 👨‍💻 About Me
 
 - 🎓 Penultimate-year Computer Science student at Dublin City University
-- 🏦 Digital Transformation Intern at Bank of Ireland
+- 🏦 Intern at Bank of Ireland
 - 🏆 Huawei TechArena 2025 Top 7 national finalist among 400+ teams
 - 🛡️ Building a Zero-PII phishing risk-scoring platform focused on secure and efficient AI deployment
 - 🤝 DCU Computer Science peer mentor supporting students with Python, C and C++
