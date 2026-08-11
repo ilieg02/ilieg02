@@ -72,17 +72,11 @@ https://img.shields.io/badge/GDPR-1D4ED8?style=for-the-badge&logoColor=white
 
 ## 🚀 Featured Work
 
-### 🔐 [Zero-PII Phishing Risk Scoring](https://github.com/ilieg02/Zero-PII-Phishing-Risk-Scoring)
-
-A privacy-first AI phishing detection service designed around secure data handling, explainable risk scoring and production-ready API engineering.
-
-`Python` `FastAPI` `Pydantic` `QLoRA` `vLLM` `Docker` `GitHub Actions`
-
 ### 🧠 [Zero-PII Phishing Engine Architecture](https://github.com/ilieg02/Zero-PII-Phishing-Engine-Architecture)
 
 Architecture and engineering documentation for a secure phishing-analysis system, including privacy controls, threat modelling and deployment design.
 
-`AI Security` `System Design` `GDPR` `OWASP` `Threat Modelling`
+`Python` `FastAPI` `Pydantic` `QLoRA` `vLLM` `Docker` `GitHub Actions` `AI Security` `System Design` `GDPR` `OWASP` `Threat Modelling`
 
 ### ⚡ [Huawei TechArena 2025](https://github.com/ilieg02/techarena2025-main)
 
