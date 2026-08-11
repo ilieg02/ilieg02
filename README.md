@@ -20,9 +20,6 @@ Building scalable software, privacy-first AI systems, and secure infrastructure.
 🏆 Huawei TechArena 2025 Finalist (Top 7 / 400+)
 </p>
 
-<p align="center">
-https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge
-</p>
 
 ## 🚀 About Me
 
