@@ -33,12 +33,6 @@ Building scalable software, privacy-first AI systems, and secure infrastructure.
 
 🤖 Passionate about AI Infrastructure, Backend Engineering, and Security
 
-🌱 Currently exploring:
-- LLM Systems
-- Agentic AI
-- Cloud Infrastructure
-- Distributed Systems
-- Security Engineering
 
 🎯 Seeking 2027 Software Engineering, AI Engineering and Cybersecurity opportunities.
 
@@ -79,13 +73,6 @@ s
 ![ISO27001img.shields.io/badge/ISO_27001-blue?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-
 
-## 📈 GitHub Stats
-
-<p align="center">
-https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight
-</p>
 
 ## 🧠 Current Interests
 
@@ -112,4 +99,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layo
 iliegabuja@gmail.com
 
 ⚡ Open to Software Engineering, AI Engineering, Machine Learning and Cybersecurity opportunities.
+
 💡 Building software that is secure, intelligent, and scalable.
