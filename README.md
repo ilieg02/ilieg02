@@ -1,117 +1,147 @@
-# Hi 👋 I'm Ilie Gabuja
+<div align="center">
 
-🎓 Computer Science Student @ Dublin City University
+# Hi, I'm Ilie Gabuja 👋
 
-🏦 Digital Transformation Intern @ Bank of Ireland
+### Software Engineering · AI Systems · Cybersecurity
 
-🏆 Huawei TechArena 2025 Top 7 Finalist (400+ teams)
+Computer Science student at Dublin City University building secure, scalable software and privacy-first AI systems.
 
-🤖 AI Systems • Software Engineering • Cybersecurity
+https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ilie-gabuja-080a26335)
+https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:iliegabuja@gmail.com)
+https://komarev.com/ghpvc/?username=ilieg02&label=Profile+Views&color=7c3aed&style=for-the-badge](https://github.com/ilieg02)
 
-I build secure, scalable software and production-ready AI systems that solve real-world problems.
+</div>
 
-My work spans full-stack development, LLM infrastructure, backend engineering, and cybersecurity, with a focus on privacy-first architectures, efficient AI deployment, and enterprise-grade software.
+---
 
-Currently seeking 2027 Software Engineering, AI Engineering, Machine Learning, and Cybersecurity opportunities.
-``
-<p align="center">
+## 👨‍💻 About Me
 
-💻 React • Python • Java • FastAPI • Docker
+- 🎓 Penultimate-year **Computer Science** student at **Dublin City University**
+- 🏦 **Intern at Bank of Ireland**, contributing to internal digital tools and automation for an organisation of 11,000+ employees
+- 🏆 **Huawei TechArena 2025 Top 7 national finalist**, competing among 400+ teams
+- 🛡️ Building a **Zero-PII phishing risk-scoring platform** focused on secure and efficient AI deployment
+- 🤝 DCU Computer Science peer mentor, supporting students with Python, C and C++
+- 🎯 Seeking **2027 Software Engineering, AI Engineering, Machine Learning and Cybersecurity internships**
 
-🛡️ OWASP • ISO 27001 • GDPR
+> I enjoy engineering systems where performance, security, privacy and real-world impact matter.
 
-🤖 LLMs • QLoRA • RAG • vLLM
+---
 
-🏆 Huawei TechArena 2025 Finalist (Top 7 / 400+)
-</p>
-
-
-## 🚀 About Me
-
-🎓 Penultimate Year Computer Science Student at DCU
-
-🏦 Digital Transformation Intern @ Bank of Ireland
-
-🏆 Huawei TechArena 2025 Finalist (Top 7 / 400+ teams)
-
-🛡️ Builder of a Zero-PII AI Phishing Detection Platform
-
-🤖 Passionate about AI Infrastructure, Backend Engineering, and Security
-
-
-🎯 Seeking 2027 Software Engineering, AI Engineering and Cybersecurity opportunities.
-
-## 💻 Tech Stack
+## 🧰 Technical Toolkit
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge0?style=for-the-badge&logo=openjdk&logoColor[C++](https://img.shields.io/badge/99C?style=for-the-badge&logo=cplusplus&logoColor=white
-![JavaScript](https://img.shields.io/badge/JavaScript-or-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white
 
-### Frontend
+### Full-Stack Engineering
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-b=react&logoColor=black
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white
 
-### Backend
+### AI and Machine Learning
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=whiteoot](https://img.shields.io/badge/SpringBoot-6DB33F?stylelogo=springboot&logoColor=white
+https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white
+https://img.shields.io/badge/QLoRA-8B5CF6?style=for-the-badge&logoColor=white
+https://img.shields.io/badge/RAG-EC4899?style=for-the-badge&logoColor=white
+https://img.shields.io/badge/vLLM-7C3AED?style=for-the-badge&logoColor=white
+https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white
 
-### AI / ML
+### DevOps, Systems and Security
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-FFD43B?style=for-the-badgeimg.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-![QLoRA](https://img.shields.io/bRA-purple?style=for-the-badge)
-![vLLM](https://img.shields1FF?style=for-the-badge
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white
+https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+https://img.shields.io/badge/ISO_27001-0052CC?style=for-the-badge&logoColor=white
+https://img.shields.io/badge/GDPR-1D4ED8?style=for-the-badge&logoColor=white
 
-### DevOps
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-theo=docker&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Gitimg.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logohite
+## 🚀 Featured Work
 
-### Security
+### 🔐 [Zero-PII Phishing Risk Scoring](https://github.com/ilieg02/Zero-PII-Phishing-Risk-Scoring)
 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-![ISO27001](https://img./badge/ISO27001-blue?stylege
-![GDPR](https://img.shields.io/badge/GDPR-green?style=for-the-badge)
-![Wireshark](https://img.shields/Wireshark-1679A7?style=for-the-b
+A privacy-first AI phishing detection service designed around secure data handling, explainable risk scoring and production-ready API engineering.
 
-## 🧠 Current Interests
+`Python` `FastAPI` `Pydantic` `QLoRA` `vLLM` `Docker` `GitHub Actions`
 
-🔹 LLM Fine-Tuning
+### 🧠 [Zero-PII Phishing Engine Architecture](https://github.com/ilieg02/Zero-PII-Phishing-Engine-Architecture)
 
-🔹 Retrieval-Augmented Generation (RAG)
+Architecture and engineering documentation for a secure phishing-analysis system, including privacy controls, threat modelling and deployment design.
 
-🔹 AI Safety & Responsible AI
+`AI Security` `System Design` `GDPR` `OWASP` `Threat Modelling`
 
-🔹 Agentic Workflows
+### ⚡ [Huawei TechArena 2025](https://github.com/ilieg02/techarena2025-main)
 
-🔹 Backend Systems Design
+A hardware-conscious LLM inference solution using retrieval, request routing and complexity scoring to balance response quality and latency. Achieved a Top 7 national finalist position among 400+ teams.
 
-🔹 Security Engineering
+`Python` `RAG` `LLM Inference` `Optimisation` `Routing`
 
-🔹 Cloud Infrastructure
+### 🛡️ [Cybersecurity Tools](https://github.com/ilieg02/Cybersecurity-Tools)
 
-## ⚡ Beyond Tech
+A growing collection of security-focused utilities implemented across different programming and scripting languages.
 
-🚴 Cycled 3,800+ km across Europe
+`Shell` `Cybersecurity` `Automation` `Networking`
 
-💚 Raised €3,100+ for charity
+---
 
-♟️ DCU Chess Society Mentor
+## 📊 GitHub Activity
 
-👨‍🏫 DCU Peer Mentor of the Year Nominee
+<div align="center">
 
-📚 Passionate about teaching programming and helping students improve their problem-solving skills
-## 📬 Let's Connect
+https://github-readme-stats.vercel.app/api?username=ilieg02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
 
-💼 LinkedIn:
-[linkedin.com/in/ilie-gabuja-080a26335](https://www.linkedin.com/in/ilie-gabuja-080a26335)
+https://github-readme-stats.vercel.app/api/top-langs/?username=ilieg02&layout=compact&theme=tokyonight&hide_border=true
 
-📧 Email:
-iliegabuja@gmail.com
+</div>
 
-⚡ Open to Software Engineering, AI Engineering, Machine Learning and Cybersecurity opportunities.
+> GitHub language statistics reflect public repository code and do not represent my complete technical experience.
 
-💡 Building software that is secure, intelligent, and scalable.
+---
+
+## 🧠 Current Focus
+
+- Building and evaluating privacy-first AI security systems
+- Fine-tuning and serving LLMs efficiently with QLoRA and vLLM
+- Backend architecture, API reliability and automated testing
+- Retrieval-Augmented Generation and agentic workflows
+- Secure software engineering and cloud-native deployment
+- Data structures, algorithms and technical interview preparation
+
+---
+
+## 🌍 Beyond Code
+
+- 🚴 Completed **3,800+ km** of self-supported solo cycling across Europe
+- 💚 Raised **€3,100+** for the Irish Cancer Society and Spina Bifida Hydrocephalus Ireland
+- ♟️ Strategy mentor and librarian with the DCU Chess Society
+- 👨‍🏫 Nominated for **DCU Peer Mentor of the Year 2025**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I am open to internship opportunities, technical collaboration and conversations about software engineering, AI systems and cybersecurity.
+
+https://img.shields.io/badge/LinkedIn-Ilie_Gabuja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ilie-gabuja-080a26335)
+https://img.shields.io/badge/Email-iliegabuja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white](mailto:iliegabuja@gmail.com)
+https://img.shields.io/badge/GitHub-ilieg02-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/ilieg02)
+
+### Secure by design. Intelligent by engineering. Built for real-world impact.
+
+</div>
