@@ -92,7 +92,7 @@ Repository: techarena2025-main
 
 ## 🤝 Let’s Connect
 
-LinkedIn: linkedin.com/in/ilie-gabuja-080a26335
+LinkedIn: (https://www.linkedin.com/in/ilie-gabuja-080a26335/)
 
 Email: iliegabuja@gmail.com
 
