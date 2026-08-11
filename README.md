@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ilie Gabuja</h1>
+# Hi 👋 I'm Ilie Gabuja
 
-<h3 align="center">
-🚀 Software Engineering • 🤖 AI Systems • 🔐 Cybersecurity
-</h3>
+🎓 Computer Science Student @ Dublin City University
 
-<p align="center">
-Computer Science Student @ Dublin City University <br>
-Building scalable software, privacy-first AI systems, and secure infrastructure.
-</p>
+🏦 Digital Transformation Intern @ Bank of Ireland
 
+🏆 Huawei TechArena 2025 Top 7 Finalist (400+ teams)
+
+🤖 AI Systems • Software Engineering • Cybersecurity
+
+I build secure, scalable software and production-ready AI systems that solve real-world problems.
+
+My work spans full-stack development, LLM infrastructure, backend engineering, and cybersecurity, with a focus on privacy-first architectures, efficient AI deployment, and enterprise-grade software.
+
+Currently seeking 2027 Software Engineering, AI Engineering, Machine Learning, and Cybersecurity opportunities.
+``
 <p align="center">
 
 💻 React • Python • Java • FastAPI • Docker
@@ -40,39 +45,37 @@ Building scalable software, privacy-first AI systems, and secure infrastructure.
 
 ### Languages
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge0?style=for-the-badge&logo=openjdk&logoColor[C++](https://img.shields.io/badge/99C?style=for-the-badge&logo=cplusplus&logoColor=white
+![JavaScript](https://img.shields.io/badge/JavaScript-or-the-badge&logo=javascript&logoColor=black
 
 ### Frontend
 
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-b=react&logoColor=black
 
 ### Backend
 
-https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=whiteoot](https://img.shields.io/badge/SpringBoot-6DB33F?stylelogo=springboot&logoColor=white
 
 ### AI / ML
 
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD43Badge&logo=huggingface&logoColor=black
-![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
-https://img.shields.io/badge/vLLM-7B61FF?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/-FFD43B?style=for-the-badgeimg.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![QLoRA](https://img.shields.io/bRA-purple?style=for-the-badge)
+![vLLM](https://img.shields1FF?style=for-the-badge
 
-s
+### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linuxle=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.it-F05032?stylee-badge&logo=git&logoColor=white
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-theo=docker&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Gitimg.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logohite
 
 ### Security
 
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge)
-![ISO27001img.shields.io/badge/ISO_27001-blue?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-
-
+![ISO27001](https://img./badge/ISO27001-blue?stylege
+![GDPR](https://img.shields.io/badge/GDPR-green?style=for-the-badge)
+![Wireshark](https://img.shields/Wireshark-1679A7?style=for-the-b
 
 ## 🧠 Current Interests
 
@@ -90,6 +93,17 @@ s
 
 🔹 Cloud Infrastructure
 
+## ⚡ Beyond Tech
+
+🚴 Cycled 3,800+ km across Europe
+
+💚 Raised €3,100+ for charity
+
+♟️ DCU Chess Society Mentor
+
+👨‍🏫 DCU Peer Mentor of the Year Nominee
+
+📚 Passionate about teaching programming and helping students improve their problem-solving skills
 ## 📬 Let's Connect
 
 💼 LinkedIn:
