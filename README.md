@@ -1,112 +1,172 @@
 # Hi there 👋 I'm Ilie
 
-Computer Science student passionate about building secure software, AI systems, and privacy-first technologies.
+### Software Engineering | AI Systems | Cybersecurity
+
+Computer Science student at Dublin City University passionate about building secure software, scalable backend systems, and privacy-first AI applications.
 
 <ul>
-  <li>🛡️ Building a Zero-PII AI phishing risk scoring platform</li>
-  <li>🌱 Currently learning LLM serving, cloud infrastructure, Kubernetes & advanced cybersecurity</li>
-  <li>🎯 Seeking Software Engineering, AI Engineering & Cybersecurity internships for 2027</li>
-  <li>💡 Interested in backend engineering, AI infrastructure, privacy engineering & secure systems</li>
+  <li>🛡️ Building a Zero-PII AI Phishing Risk Scoring Platform</li>
+  <li>🌱 Currently learning Kubernetes, Cloud Infrastructure & Advanced LLM Serving</li>
+  <li>🎯 Seeking 2027 Software Engineering, AI Engineering & Cybersecurity internships</li>
+  <li>💡 Interested in AI Infrastructure, Backend Systems, Privacy Engineering & Security</li>
 </ul>
 
----
+<br/>
 
 ## 🚀 About Me
 
-🎓 Penultimate-year Computer Science student at Dublin City University
+- 🎓 Penultimate-year Computer Science student at Dublin City University
+- 🏦 Software Engineering Intern at Bank of Ireland
+- 🤝 DCU Computer Science Peer Mentor
+- 🔬 Building production-focused AI and cybersecurity projects
+- 💭 Passionate about systems where performance, security and reliability matter
 
-🏦 Software Engineering Intern at Bank of Ireland
+<br/>
 
-🤝 DCU Computer Science Peer Mentor supporting students in Python, C and C++
+## 🔭 Currently Building
 
-🔬 Enjoy building systems where performance, security, privacy and real-world impact matter
+### Zero-PII AI Phishing Risk Scoring Platform
 
----
+- Fine-tuning Qwen using QLoRA
+- FastAPI microservices
+- vLLM inference serving
+- Docker deployment
+- Explainable AI risk scoring
+- Privacy-first architecture
 
-## 🛠️ My Skill Set
+<br/>
+
+## 🛠️ Skill Set
 
 ### Frontend
 
-<p>
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white
-</p>
+<div align="center">
+#
+https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/typescript-original.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/javascript-original.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg
+</a>
+</div>
+
+<br/>
 
 ### Backend
 
-<p>
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/REST_API-02569B?style=for-the-badge
-</p>
+<div align="center">
+#
+https://profilinator.rishav.dev/skills-assets/python-original.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/springio-icon.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg
+</a>
+#
+https://cdn.worldvectorlogo.com/logos/fastapi.svg
+</a>
+</div>
 
-### AI / Machine Learning
+<br/>
 
-<p>
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
-https://img.shields.io/badge/QLoRA-8E44AD?style=for-the-badge
-https://img.shields.io/badge/RAG-2563EB?style=for-the-badge
-https://img.shields.io/badge/vLLM-111827?style=for-the-badge
-https://img.shields.io/badge/PEFT-059669?style=for-the-badge
-</p>
+### AI & Machine Learning
+
+<div align="center">
+#
+https://profilinator.rishav.dev/skills-assets/python-original.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg
+</a>
+#
+https://huggingface.co/front/assets/huggingface_logo.svg
+</a>
+</div>
+
+<div align="center">
+
+**QLoRA • PEFT • Unsloth • vLLM • RAG • Pydantic**
+
+</div>
+
+<br/>
 
 ### DevOps & Systems
 
-<p>
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
-https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge
-</p>
+<div align="center">
+#
+https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/linux-original.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg
+</a>
+#
+https://profilinator.rishav.dev/skills-assets/github.png
+</a>
+</div>
+
+<br/>
 
 ### Cybersecurity
 
-<p>
-https://img.shields.io/badge/OWASP-000000?style=for-the-badge
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
-https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge
-https://img.shields.io/badge/GDPR-0052CC?style=for-the-badge
-https://img.shields.io/badge/ISO_27001-1F3A93?style=for-the-badge
-</p>
+<div align="center">
 
----
+**OWASP • Wireshark • Burp Suite • GDPR • ISO 27001 • Threat Modelling • Data Anonymisation**
+
+</div>
+
+<br/>
 
 ## 🎯 Current Focus
 
-- Fine-tuning LLMs with QLoRA
-- Efficient inference using vLLM
-- Secure AI system design
-- Cloud-native backend engineering
-- Technical interview preparation
-- Privacy engineering & cybersecurity
+- AI Security & Privacy Engineering
+- LLM Fine-Tuning & Inference Optimisation
+- Cloud-Native Backend Development
+- Scalable API Design
+- Cybersecurity Engineering
+- Data Structures & Algorithms
 
----
+<br/>
 
 ## 🌍 Beyond Code
 
-🚴 3,800+ km cycled across Europe solo
+🚴 Completed 3,800+ km of solo cycling across Europe
 
-💚 Raised €3,100+ for charity
+💚 Raised €3,100+ for the Irish Cancer Society and SBHI
 
-♟️ DCU Chess Society mentor & librarian
+♟️ DCU Chess Society Mentor & Librarian
 
----
+📚 Enjoy philosophy, psychology, technology and lifelong learning
+
+<br/>
+
+## 📈 GitHub Stats
+
+<!-- GitHub stats cards here -->
+
+<br/>
 
 ## 🤝 Connect With Me
 
-https://www.linkedin.com/in/ilie-gabuja-080a26335
-
-https://github.com/ilieg02
-
-📧 iliegabuja@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ilie-gabuja-080a26335/
+- GitHub: https://github.com/ilieg02
+- Email: iliegabuja@gmail.com
 
 ---
 
