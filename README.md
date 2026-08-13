@@ -91,22 +91,4 @@ OWASP • Burp Suite • Wireshark • GDPR • ISO 27001 • Threat Modelling �
 ---
 
 
-
-
-## 🤝 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/ilie-gabuja-080a26335/
-
-📧 Email
-
-iliegabuja@gmail.com
-
-🐙 GitHub
-
-https://github.com/ilieg02
-
----
-
 ### Secure by Design • Intelligent by Engineering • Built for Real-World Impact
