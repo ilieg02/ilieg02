@@ -12,7 +12,6 @@ I am currently seeking 2027 internship opportunities in Software Engineering, AI
 
 - 🎓 Penultimate-year Computer Science student at Dublin City University
 - 🏦 Intern at Bank of Ireland
-- 🏆 Huawei TechArena 2025 Top 7 national finalist among 400+ teams
 - 🛡️ Building a Zero-PII phishing risk-scoring platform focused on secure and efficient AI deployment
 - 🤝 DCU Computer Science peer mentor supporting students with Python, C and C++
 - 💡 Interested in backend systems, LLM infrastructure, privacy engineering and secure software development
@@ -37,37 +36,6 @@ Docker | GitHub Actions | Git | Linux | CI/CD
 
 ### Cybersecurity and Compliance
 OWASP | ISO 27001 | GDPR | Burp Suite | Wireshark | Threat Modelling | Data Anonymisation
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Zero-PII Phishing Risk Scoring
-
-A privacy-first AI phishing detection service designed around secure data handling, explainable risk scoring and production-ready API engineering.
-
-Key highlights:
-- Achieved a 97.8% F1-score and 0.977 ROC-AUC on a held-out evaluation set
-- Applied SHA-256 hashing before GPU tensor allocation to support Zero-PII processing
-- Fine-tuned Qwen2.5-7B using QLoRA
-- Used AWQ quantisation and vLLM to reduce GPU memory requirements
-- Built with FastAPI, Pydantic, Docker and automated benchmarking
-
-Repository: Zero-PII-Phishing-Engine-Architecture
-
-### ⚡ Huawei TechArena 2025
-
-A hardware-conscious LLM inference solution using retrieval, dynamic request routing and complexity scoring to balance response quality and latency.
-
-Key highlights:
-- Top 7 national finalist among 400+ teams
-- Achieved a 98.35% latency score
-- Reduced latency by 80% while maintaining response quality
-
-Key technologies:
-Python | RAG | LLM Inference | Optimisation | Dynamic Routing
-
-Repository: techarena2025-main
 
 ---
 
