@@ -4,7 +4,7 @@
 
 Computer Science student at Dublin City University passionate about building secure software, scalable backend systems and privacy-first AI applications.
 
-- 🌱 Currently learning Kubernetes, Cloud Infrastructure & Advanced LLM Serving
+- 🌱 Currently learning Quantum Cryptography, Cloud Infrastructure & Advanced LLM Serving
 - 🎯 Seeking Software Engineering, AI Engineering and Cybersecurity internships for 2027
 - 💡 Interested in AI Infrastructure, Backend Engineering, Privacy Engineering and Security
 
