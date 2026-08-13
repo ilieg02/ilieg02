@@ -2,171 +2,110 @@
 
 ### Software Engineering | AI Systems | Cybersecurity
 
-Computer Science student at Dublin City University passionate about building secure software, scalable backend systems, and privacy-first AI applications.
+Computer Science student at Dublin City University passionate about building secure software, scalable backend systems and privacy-first AI applications.
 
-<ul>
-  <li>🛡️ Building a Zero-PII AI Phishing Risk Scoring Platform</li>
-  <li>🌱 Currently learning Kubernetes, Cloud Infrastructure & Advanced LLM Serving</li>
-  <li>🎯 Seeking 2027 Software Engineering, AI Engineering & Cybersecurity internships</li>
-  <li>💡 Interested in AI Infrastructure, Backend Systems, Privacy Engineering & Security</li>
-</ul>
+- 🛡️ Building a Zero-PII AI Phishing Risk Scoring Platform
+- 🌱 Currently learning Kubernetes, Cloud Infrastructure & Advanced LLM Serving
+- 🎯 Seeking Software Engineering, AI Engineering and Cybersecurity internships for 2027
+- 💡 Interested in AI Infrastructure, Backend Engineering, Privacy Engineering and Security
 
-<br/>
+---
 
 ## 🚀 About Me
 
-- 🎓 Penultimate-year Computer Science student at Dublin City University
-- 🏦 Software Engineering Intern at Bank of Ireland
-- 🤝 DCU Computer Science Peer Mentor
-- 🔬 Building production-focused AI and cybersecurity projects
-- 💭 Passionate about systems where performance, security and reliability matter
+🎓 Penultimate-year Computer Science student at Dublin City University
 
-<br/>
+🏦 Intern at Bank of Ireland
 
-## 🔭 Currently Building
+🤝 DCU Computer Science Peer Mentor
 
-### Zero-PII AI Phishing Risk Scoring Platform
+🔬 Building production-focused AI and cybersecurity projects
 
-- Fine-tuning Qwen using QLoRA
-- FastAPI microservices
-- vLLM inference serving
-- Docker deployment
-- Explainable AI risk scoring
-- Privacy-first architecture
+💭 Passionate about systems where performance, security, privacy and reliability matter
 
-<br/>
+---
 
-## 🛠️ Skill Set
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+Python • Java • C • C++ • JavaScript • SQL
+</p>
 
 ### Frontend
 
-<div align="center">
-#
-https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/typescript-original.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/javascript-original.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg
-</a>
-</div>
-
-<br/>
+<p align="left">
+React • TypeScript • HTML • CSS
+</p>
 
 ### Backend
 
-<div align="center">
-#
-https://profilinator.rishav.dev/skills-assets/python-original.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/springio-icon.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg
-</a>
-#
-https://cdn.worldvectorlogo.com/logos/fastapi.svg
-</a>
-</div>
-
-<br/>
+<p align="left">
+FastAPI • Spring Boot • Flask • REST APIs • PostgreSQL
+</p>
 
 ### AI & Machine Learning
 
-<div align="center">
-#
-https://profilinator.rishav.dev/skills-assets/python-original.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg
-</a>
-#
-https://huggingface.co/front/assets/huggingface_logo.svg
-</a>
-</div>
-
-<div align="center">
-
-**QLoRA • PEFT • Unsloth • vLLM • RAG • Pydantic**
-
-</div>
-
-<br/>
+<p align="left">
+PyTorch • Hugging Face • QLoRA • PEFT • Unsloth • RAG • vLLM • Pydantic
+</p>
 
 ### DevOps & Systems
 
-<div align="center">
-#
-https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/linux-original.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg
-</a>
-#
-https://profilinator.rishav.dev/skills-assets/github.png
-</a>
-</div>
-
-<br/>
+<p align="left">
+Docker • Linux • Git • GitHub Actions • CI/CD
+</p>
 
 ### Cybersecurity
 
-<div align="center">
+<p align="left">
+OWASP • Burp Suite • Wireshark • GDPR • ISO 27001 • Threat Modelling • Data Anonymisation
+</p>
 
-**OWASP • Wireshark • Burp Suite • GDPR • ISO 27001 • Threat Modelling • Data Anonymisation**
-
-</div>
-
-<br/>
+---
 
 ## 🎯 Current Focus
 
+- Fine-tuning Large Language Models
 - AI Security & Privacy Engineering
-- LLM Fine-Tuning & Inference Optimisation
+- Retrieval-Augmented Generation (RAG)
 - Cloud-Native Backend Development
 - Scalable API Design
-- Cybersecurity Engineering
 - Data Structures & Algorithms
+- Technical Interview Preparation
 
-<br/>
+---
 
 ## 🌍 Beyond Code
 
-🚴 Completed 3,800+ km of solo cycling across Europe
+🚴 Cycled more than **3,800 km** solo across Europe
 
-💚 Raised €3,100+ for the Irish Cancer Society and SBHI
+💚 Raised over **€3,100** for charity
 
-♟️ DCU Chess Society Mentor & Librarian
+♟️ Mentor and Librarian with the DCU Chess Society
 
 📚 Enjoy philosophy, psychology, technology and lifelong learning
 
-<br/>
+---
 
-## 📈 GitHub Stats
 
-<!-- GitHub stats cards here -->
 
-<br/>
 
 ## 🤝 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ilie-gabuja-080a26335/
-- GitHub: https://github.com/ilieg02
-- Email: iliegabuja@gmail.com
+💼 LinkedIn
+
+https://www.linkedin.com/in/ilie-gabuja-080a26335/
+
+📧 Email
+
+iliegabuja@gmail.com
+
+🐙 GitHub
+
+https://github.com/ilieg02
 
 ---
 
