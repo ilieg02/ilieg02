@@ -4,7 +4,6 @@
 
 Computer Science student at Dublin City University passionate about building secure software, scalable backend systems and privacy-first AI applications.
 
-- 🛡️ Building a Zero-PII AI Phishing Risk Scoring Platform
 - 🌱 Currently learning Kubernetes, Cloud Infrastructure & Advanced LLM Serving
 - 🎯 Seeking Software Engineering, AI Engineering and Cybersecurity internships for 2027
 - 💡 Interested in AI Infrastructure, Backend Engineering, Privacy Engineering and Security
@@ -16,8 +15,6 @@ Computer Science student at Dublin City University passionate about building sec
 🎓 Penultimate-year Computer Science student at Dublin City University
 
 🏦 Intern at Bank of Ireland
-
-🤝 DCU Computer Science Peer Mentor
 
 🔬 Building production-focused AI and cybersecurity projects
 
