@@ -91,21 +91,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ilieg02">
-    <img src="https://github-readme-stats.vercel.app/api?username=ilieg02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ilie's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ilieg02">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilieg02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</p>
-
----
 
 ### 🌍 Beyond Code
 
