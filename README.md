@@ -1,91 +1,115 @@
-# Hi there 👋 I'm Ilie
+<h1 align="center">Hi there 👋, I'm Ilie Gabuja</h1>
 
-### Software Engineering | AI Systems | Cybersecurity
+<h3 align="center">Secure by Design • Intelligent by Engineering • Built for Real-World Impact</h3>
 
-Computer Science student at Dublin City University passionate about building secure software, scalable backend systems and privacy-first AI applications.
-
-- 🌱 Currently learning Quantum Cryptography, Cloud Infrastructure & Advanced LLM Serving
-- 🎯 Seeking Software Engineering, AI Engineering and Cybersecurity internships for 2027
-- 💡 Interested in AI Infrastructure, Backend Engineering, Privacy Engineering and Security
-
----
-
-## 🚀 About Me
-
-🎓 Penultimate-year Computer Science student at Dublin City University
-
-🏦 Intern at Bank of Ireland
-
-🔬 Building production-focused AI and cybersecurity projects
-
-💭 Passionate about systems where performance, security, privacy and reliability matter
-
----
-
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p align="left">
-Python • Java • C • C++ • JavaScript • SQL
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+at+DCU;Software+Engineering+%7C+AI+Systems+%7C+Cybersecurity;Intern+at+Bank+of+Ireland;Building+Privacy-First+AI+Applications&center=true&width=600&height=50">
+  </a>
 </p>
 
-### Frontend
-
-<p align="left">
-React • TypeScript • HTML • CSS
-</p>
-
-### Backend
-
-<p align="left">
-FastAPI • Spring Boot • Flask • REST APIs • PostgreSQL
-</p>
-
-### AI & Machine Learning
-
-<p align="left">
-PyTorch • Hugging Face • QLoRA • PEFT • Unsloth • RAG • vLLM • Pydantic
-</p>
-
-### DevOps & Systems
-
-<p align="left">
-Docker • Linux • Git • GitHub Actions • CI/CD
-</p>
-
-### Cybersecurity
-
-<p align="left">
-OWASP • Burp Suite • Wireshark • GDPR • ISO 27001 • Threat Modelling • Data Anonymisation
+<p align="center">
+  <a href="mailto:ilie.gabuja2@mail.dcu.ie">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ilie-gabuja-080a26335">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://huggingface.co/Ilieg">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
+### 🚀 About Me
 
-- Fine-tuning Large Language Models
+- 🎓 Penultimate-year **Computer Science** student at **Dublin City University**.
+- 🏦 Currently an **Intern at Bank of Ireland**.
+- 🔬 Building production-focused AI and cybersecurity projects.
+- 🌱 Currently learning **Quantum Cryptography, Cloud Infrastructure & Advanced LLM Serving**.
+- 🎯 Seeking **Software Engineering, AI Engineering, and Cybersecurity internships for 2027**.
+- 💡 Passionate about systems where **performance, security, privacy, and reliability** matter.
+
+---
+
+### 🎯 Current Focus
+- Fine-tuning Large Language Models & Retrieval-Augmented Generation (RAG)
 - AI Security & Privacy Engineering
-- Retrieval-Augmented Generation (RAG)
-- Cloud-Native Backend Development
-- Scalable API Design
-- Data Structures & Algorithms
-- Technical Interview Preparation
+- Cloud-Native Backend Development & Scalable API Design
+- Data Structures & Algorithms (Technical Interview Prep)
 
 ---
 
-## 🌍 Beyond Code
+### 🛠️ Tech Stack
 
-🚴 Cycled more than **3,800 km** solo across Europe
+**Languages**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-💚 Raised over **€3,100** for charity
+**AI & Machine Learning**  
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-009688?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+</p>
 
-♟️ Mentor and Librarian with the DCU Chess Society
+**Backend & Cloud-Native**  
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-📚 Enjoy philosophy, psychology, technology and lifelong learning
+**Frontend**  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**DevOps, Systems & Security**  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+</p>
 
 ---
 
+### 📊 GitHub Stats
 
-### Secure by Design • Intelligent by Engineering • Built for Real-World Impact
+<p align="center">
+  <a href="https://github.com/ilieg02">
+    <img src="https://github-readme-stats.vercel.app/api?username=ilieg02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Ilie's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ilieg02">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilieg02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🌍 Beyond Code
+
+- 🚴 Cycled more than **3,800 km solo across Europe**.
+- 💚 Raised over **€3,100 for charity**.
+- ♟️ Mentor and Librarian with the **DCU Chess Society**.
+- 📚 Enjoy philosophy, psychology, technology, and lifelong learning.
