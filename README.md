@@ -98,3 +98,19 @@
 - 💚 Raised over **€3,100 for charity**.
 - ♟️ Mentor and Librarian with the **DCU Chess Society**.
 - 📚 Enjoy philosophy, psychology, technology, and lifelong learning.
+
+### 📫 Connect with me
+
+Whether you want to discuss AI, cybersecurity, potential internship opportunities for 2027, or just talk about cycling—I'd love to hear from you!
+
+<p align="left">
+  <a href="mailto:ilie.gabuja2@mail.dcu.ie">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/ilie-gabuja-080a26335">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://huggingface.co/Ilieg">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" />
+  </a>
+</p>
