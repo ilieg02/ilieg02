@@ -101,7 +101,7 @@
 
 ### 📫 Connect with me
 
-Whether you want to discuss AI, cybersecurity, potential internship opportunities for 2027, or just talk about cycling—I'd love to hear from you!
+Whether you want to discuss AI, cybersecurity, SWE, or just talk about cycling—I'd love to hear from you!
 
 <p align="left">
   <a href="mailto:ilie.gabuja2@mail.dcu.ie">
