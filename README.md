@@ -26,18 +26,8 @@
 
 - 🎓 Penultimate-year **Computer Science** student at **Dublin City University**.
 - 🏦 Currently an **Intern at Bank of Ireland**.
-- 🔬 Building production-focused AI and cybersecurity projects.
 - 🌱 Currently learning **Quantum Cryptography, Cloud Infrastructure & Advanced LLM Serving**.
-- 🎯 Seeking **Software Engineering, AI Engineering, and Cybersecurity internships for 2027**.
 - 💡 Passionate about systems where **performance, security, privacy, and reliability** matter.
-
----
-
-### 🎯 Current Focus
-- Fine-tuning Large Language Models & Retrieval-Augmented Generation (RAG)
-- AI Security & Privacy Engineering
-- Cloud-Native Backend Development & Scalable API Design
-- Data Structures & Algorithms (Technical Interview Prep)
 
 ---
 
