@@ -25,7 +25,7 @@
 ### 🚀 About Me
 
 - 🎓 Penultimate-year **Computer Science** student at **Dublin City University**.
-- 🏦 Currently an **Intern at Bank of Ireland**.
+- 🏦 Ex-SWE **Intern at Bank of Ireland**.
 - 🌱 Currently learning **Quantum Cryptography, Cloud Infrastructure & Advanced LLM Serving**.
 - 💡 Passionate about systems where **performance, security, privacy, and reliability** matter.
 
