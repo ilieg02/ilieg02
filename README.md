@@ -37,8 +37,7 @@
 **Bank of Ireland** — Software Engineering Intern, DevSecOps & Accessibility (Jun 2026 to Sep 2026)
 - Designed and built the internal-facing side of a data-discovery website in React and TypeScript, used by 11,000+ employees.
 - Analyzed incoming projects with the Pentest, ISR, and ESAD security teams to spot issues like XSS, CSRF, and access control gaps early.
-- Wrote up a business case that secured funding for WCAG 2.1 AA accessibility remediation through Ireland's Work and Access grant scheme.
-- Helped start "Visionarys," an internal group supporting colleagues with visual impairments.
+- Built "Visionarys," an internal app supporting colleagues with visual needs.
 
 ---
 
