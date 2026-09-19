@@ -32,15 +32,6 @@
 
 ---
 
-### 💼 Experience
-
-**Bank of Ireland** — Software Engineering Intern, DevSecOps & Accessibility (Jun 2026 to Sep 2026)
-- Designed and built the internal-facing side of a data-discovery website in React and TypeScript, used by 11,000+ employees.
-- Analyzed incoming projects with the Pentest, ISR, and ESAD security teams to spot issues like XSS, CSRF, and access control gaps early.
-- Built "Visionarys," an internal app supporting colleagues with visual needs.
-
----
-
 ### 📌 Featured Projects
 
 **[Zero-PII Phishing Engine Architecture](https://github.com/ilieg02/Zero-PII-Phishing-Engine-Architecture)** · [Model on Hugging Face](https://huggingface.co/Ilieg/qwen2.5-7b-phishing-standard-merged-16bit)
