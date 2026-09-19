@@ -44,8 +44,7 @@
 ### 📌 Featured Projects
 
 **[Zero-PII Phishing Engine Architecture](https://github.com/ilieg02/Zero-PII-Phishing-Engine-Architecture)** · [Model on Hugging Face](https://huggingface.co/Ilieg/qwen2.5-7b-phishing-standard-merged-16bit)
-An asynchronous phishing risk scoring API. Fine-tuned Qwen2.5-7B with QLoRA and served it 4-bit quantized through vLLM, cutting inference VRAM from 15.2GB to 5.9GB so it runs on a single Tesla T4. Reached 97.8% F1-score and 0.977 ROC-AUC, with strict Pydantic v2 validation at every API boundary and a salted SHA-256 sanitization pipeline so no raw PII ever reaches the model.
-
+Enterprise-grade, privacy-preserving phishing detection pipeline powered by a fine-tuned Qwen2.5-7B (Comprehensive QLoRA) model, served via high-throughput vLLM with strict grammar-guided JSON decoding, Zero-PII header sanitation, and resilient CPU fallback logic.
 **[TechArena 2025](https://github.com/ilieg02/techarena2025-main)**
 National Top 7 finalist out of 400+ teams (98.35% benchmark score) at Huawei TechArena 2025. Built a request-routing service in Python and C++ with retrieval caching and dynamic routing that cut end-to-end latency by 80%.
 
