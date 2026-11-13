@@ -32,20 +32,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-**[Zero-PII Phishing Engine Architecture](https://github.com/ilieg02/Zero-PII-Phishing-Engine-Architecture)** · [Model on Hugging Face](https://huggingface.co/Ilieg/qwen2.5-7b-phishing-standard-merged-16bit)
-Enterprise-grade, privacy-preserving phishing detection pipeline powered by a fine-tuned Qwen2.5-7B (Comprehensive QLoRA) model, served via high-throughput vLLM with strict grammar-guided JSON decoding, Zero-PII header sanitation, and resilient CPU fallback logic.
-
-**[TechArena 2025](https://github.com/ilieg02/techarena2025-main)**
-National Top 7 finalist out of 400+ teams (98.35% benchmark score) at Huawei TechArena 2025. Built a request-routing service in Python and C++ with retrieval caching and dynamic routing that cut end-to-end latency by 80%.
-
-**[C Shell](https://github.com/ilieg02/C_Shell)**
-A POSIX shell written in C from scratch, handling the full process lifecycle with fork, execvp, waitpid, and dup2, plus custom SIGCHLD handling. No memory leaks, checked with valgrind. Supports background execution, batch scripts, and I/O redirection.
-
----
-
-
 ### 🌍 Beyond Code
 
 - 🚴 Solo-cycled more than 3,800 km across Norway, Ireland, and the Canary Islands.
